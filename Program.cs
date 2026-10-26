@@ -16,7 +16,9 @@ namespace Challenges
            // TheDefenseOfConsolas.Run(args);
            // RepairingTheClocktower.Run(args);
            // Watchtower.Run(args);
-           BuyingInventory.Run(args);
+           // BuyingInventory.Run(args);
+           // DiscountedInventory.Run(args);
+           ThePrototype.Run(args);
 
         }
     }
