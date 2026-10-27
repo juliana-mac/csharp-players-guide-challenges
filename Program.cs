@@ -18,7 +18,9 @@ namespace Challenges
            // Watchtower.Run(args);
            // BuyingInventory.Run(args);
            // DiscountedInventory.Run(args);
-           ThePrototype.Run(args);
+           // ThePrototype.Run(args);
+           TheMagicCannon.Run(args);
+           
 
         }
     }
