@@ -19,8 +19,12 @@ namespace Challenges
            // BuyingInventory.Run(args);
            // DiscountedInventory.Run(args);
            // ThePrototype.Run(args);
-           TheMagicCannon.Run(args);
-           
+           // TheMagicCannon.Run(args);
+           // TheLongGame.Run(args);
+           // TheReplicatorOfDTo.Run(args);
+           //TheLawsOfFreach.Run(args);
+           ExeptisGame.Run(args);
+
 
         }
     }
